@@ -1,4 +1,4 @@
-# csharpsearchembeddings
+# C# Searching with Embeddings
 
 Create and search embeddings with OpenAI in C#.
 
